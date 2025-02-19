@@ -1,0 +1,35 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..o_linux_x64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[25-02-19 19:13:42] File 'settings.xml' not present, creating new node.
+[25-02-19 19:13:42] Resource 'ip2c' requests some acl rights. Use the command 'aclrequest list ip2c'
+[25-02-19 19:13:42] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[25-02-19 19:13:43] Resources: 202 loaded, 0 failed
+[25-02-19 19:13:43] Starting resources...
+[25-02-19 19:13:43] Admin access list successfully updated 
+[25-02-19 19:13:43] INFO: Admin added 570 missing rights
+[25-02-19 19:13:43] Server minclientversion is now 1.5.9-9.20957.0
+[25-02-19 19:13:43] startResource: Resource 'ip2c' started
+[25-02-19 19:13:43] Server minclientversion is now 1.6.0-9.22676
+[25-02-19 19:13:43] Gamemode 'play' started.
+[25-02-19 19:13:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[25-02-19 19:13:43] WARNING: <owner_email_address> not set
+[25-02-19 19:13:43] Server started and is ready to accept connections!
+[25-02-19 19:13:43] To stop the server, type 'shutdown' or press Ctrl-C
+[25-02-19 19:13:43] Type 'help' for a list of commands.
+[25-02-19 19:13:43] Querying MTA master server... success! (Auto detected IP:34.169.161.145)
+[25-02-19 19:13:44] INFO: IpToCountry file not found, successfully copied from backup
+[25-02-19 19:13:44] WARNING: [admin]/ip2c/server.lua:230: Access denied @ 'fetchRemote'
+[25-02-19 19:14:36] Server stopped!
+[25-02-19 19:14:36] Stopping resources..........................
+[25-02-19 19:14:37] Closing SQLite3 database
